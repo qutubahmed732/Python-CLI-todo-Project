@@ -2,6 +2,10 @@
 
 A small command-line app for keeping everyday tasks in one place. Add a task when it comes to mind, update it as plans change, and mark it done when you finish. Your tasks are saved locally, so they are still there the next time you run the program.
 
+This project was a challenge project from Roadmap.sh, and I made it.
+
+Challenge link: https://roadmap.sh/projects/task-tracker
+
 ## What it can do
 
 - Add, update, and delete tasks
