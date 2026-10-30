@@ -1,0 +1,6 @@
+cli-tracker/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+data.json
